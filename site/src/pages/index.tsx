@@ -4,12 +4,8 @@ import { Layout } from '../components/Layout'
 
 export const IndexPage = () => (
   <>
-    <h2>Hi people</h2>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <p>
-      <Link to="/another-page/">Go to another page</Link>
-    </p>
+    <h2>Hi Tech People! 👋️</h2>
+    <p>Welcome to the Houston, Texas tech job board.</p>
     <p>
       <Link to="/all/">See content generated from Markdown files</Link>
     </p>

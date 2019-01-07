@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'TypeScript Gatsby Starter',
-    author: 'Luís Rodrigues',
-    description: 'A Gatsby starter using TypeScript.',
-    siteUrl: 'https://goblindegook-gatsby-starter-typescript.netlify.com'
+    title: 'Houston Tech Jobs',
+    author: 'Josh Medeski',
+    description: 'A job board for tech jobs in Houston, TX',
+    siteUrl: 'https://htxtechjobs.com'
   },
   plugins: [
     'gatsby-plugin-typescript',
