@@ -13,7 +13,7 @@ function pageUrl(prefix: string, page: number): string {
 }
 
 const NavLink = styled(Link)`
-  background-color: #ff5700;
+  background-color: #e96318;
   border-radius: 3px;
   color: #fff;
   font-family: sans-serif;

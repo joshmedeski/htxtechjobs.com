@@ -17,7 +17,7 @@ const typography = new Typography({
       lineHeight: 1.2
     },
     a: {
-      color: '#ff5700',
+      color: '#e96318',
       textDecoration: 'none'
     },
     'a:hover, a:active': {

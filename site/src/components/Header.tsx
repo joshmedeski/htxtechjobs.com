@@ -6,7 +6,7 @@ import { LunrSearch } from './LunrSearch'
 
 const style = {
   container: css`
-    background: #ff5700;
+    background: #002754;
     margin-bottom: 1.45rem;
   `,
   wrapper: css`

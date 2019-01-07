@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import { css } from '@emotion/core'
 import { Link } from 'gatsby'
 
-const accent = '#ff5700'
+const accent = '#e96318'
 
 const styles = {
   wrapper: css`
